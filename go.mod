@@ -1,3 +1,3 @@
-module github.com/okx/go-wallet-sdk
+module github.com/mmdi1/go-wallet-sdk
 
-go 1.19
+go 1.24.1
