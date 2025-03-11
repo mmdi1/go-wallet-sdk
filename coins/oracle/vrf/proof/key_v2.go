@@ -11,8 +11,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/secp256k1"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/utils"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/secp256k1"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/utils"
 	"math/big"
 
 	"go.dedis.ch/kyber/v3"

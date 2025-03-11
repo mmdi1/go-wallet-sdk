@@ -8,7 +8,7 @@ package proof
 
 import (
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/utils"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/utils"
 	"math/big"
 )
 

@@ -3,7 +3,7 @@ package hard
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/cosmos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos/types"
 	"io"
 )
 

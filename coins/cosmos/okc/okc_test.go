@@ -1,10 +1,10 @@
 package okc
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/cosmos"
-	"github.com/okx/go-wallet-sdk/coins/cosmos/okc/tx"
-	"github.com/okx/go-wallet-sdk/coins/cosmos/okc/tx/common/types"
-	"github.com/okx/go-wallet-sdk/coins/cosmos/okc/tx/token"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos/okc/tx"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos/okc/tx/common/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos/okc/tx/token"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

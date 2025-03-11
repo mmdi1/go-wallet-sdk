@@ -2,7 +2,7 @@ package tezos
 
 import (
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/coins/tezos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/tezos/types"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

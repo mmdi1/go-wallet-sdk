@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/tvm/cell"
+	"github.com/mmdi1/go-wallet-sdk/coins/ton/tvm/cell"
 )
 
 var ErrStackEmpty = errors.New("stack is empty")

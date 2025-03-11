@@ -2,8 +2,8 @@ package vrf
 
 import (
 	"encoding/hex"
-	vrfProof "github.com/okx/go-wallet-sdk/coins/oracle/vrf/proof"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/secp256k1"
+	vrfProof "github.com/mmdi1/go-wallet-sdk/coins/oracle/vrf/proof"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/secp256k1"
 	"github.com/stretchr/testify/require"
 	"math/big"
 	"testing"

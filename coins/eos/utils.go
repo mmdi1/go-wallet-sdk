@@ -2,7 +2,7 @@ package eos
 
 import (
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/coins/eos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/eos/types"
 )
 
 func HexToHexBytes(data string) types.HexBytes {

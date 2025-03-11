@@ -6,8 +6,8 @@ package transactions
 
 import (
 	"github.com/golang/protobuf/proto"
-	"github.com/okx/go-wallet-sdk/coins/helium/keypair"
-	"github.com/okx/go-wallet-sdk/coins/helium/protos"
+	"github.com/mmdi1/go-wallet-sdk/coins/helium/keypair"
+	"github.com/mmdi1/go-wallet-sdk/coins/helium/protos"
 )
 
 type PaymentV2Tx struct {

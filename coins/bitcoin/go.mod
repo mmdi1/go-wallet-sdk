@@ -1,4 +1,4 @@
-module github.com/okx/go-wallet-sdk/coins/bitcoin
+module github.com/mmdi1/go-wallet-sdk/coins/bitcoin
 
 go 1.19
 
@@ -9,8 +9,8 @@ require (
 	github.com/btcsuite/btcd/btcutil/psbt v1.1.8
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.2
 	github.com/ethereum/go-ethereum v1.13.4
-	github.com/okx/go-wallet-sdk/crypto v0.0.1
-	github.com/okx/go-wallet-sdk/util v0.0.1
+	github.com/mmdi1/go-wallet-sdk/crypto v0.0.1
+	github.com/mmdi1/go-wallet-sdk/util v0.0.1
 	github.com/stretchr/testify v1.8.4
 )
 

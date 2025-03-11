@@ -9,8 +9,8 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2/ecdsa"
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/okx/go-wallet-sdk/crypto"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/mmdi1/go-wallet-sdk/crypto"
+	"github.com/mmdi1/go-wallet-sdk/util"
 	"golang.org/x/crypto/sha3"
 )
 

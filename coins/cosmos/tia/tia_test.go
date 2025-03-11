@@ -1,7 +1,7 @@
 package tia
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/cosmos"
+	"github.com/mmdi1/go-wallet-sdk/coins/cosmos"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

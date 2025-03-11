@@ -4,9 +4,9 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/bcs"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/crypto"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/internal/util"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/v2/bcs"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/v2/crypto"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/v2/internal/util"
 	"strings"
 )
 

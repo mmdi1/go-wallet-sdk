@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"errors"
 	"github.com/btcsuite/btcd/btcutil/bech32"
-	"github.com/okx/go-wallet-sdk/coins/nervos/crypto"
-	"github.com/okx/go-wallet-sdk/coins/nervos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/nervos/crypto"
+	"github.com/mmdi1/go-wallet-sdk/coins/nervos/types"
 	"strings"
 )
 

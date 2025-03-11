@@ -1,7 +1,7 @@
 package atomic_market
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/eos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/eos/types"
 )
 
 func NewAssertSale(from, listingPriceToAssert, settlementSymbolToAssert string,

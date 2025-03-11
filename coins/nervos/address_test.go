@@ -1,7 +1,7 @@
 package nervos
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/nervos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/nervos/types"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

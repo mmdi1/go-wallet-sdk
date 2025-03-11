@@ -8,8 +8,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
-	"github.com/okx/go-wallet-sdk/coins/ton/tvm/cell"
+	"github.com/mmdi1/go-wallet-sdk/coins/ton/address"
+	"github.com/mmdi1/go-wallet-sdk/coins/ton/tvm/cell"
 )
 
 type MsgType string

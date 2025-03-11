@@ -3,13 +3,13 @@ package solana
 import (
 	"encoding/hex"
 	"encoding/json"
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	"github.com/mmdi1/go-wallet-sdk/crypto/base58"
 	"github.com/stretchr/testify/require"
 	"testing"
 
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
-	"github.com/okx/go-wallet-sdk/coins/solana/token"
-	"github.com/okx/go-wallet-sdk/crypto/ed25519"
+	"github.com/mmdi1/go-wallet-sdk/coins/solana/base"
+	"github.com/mmdi1/go-wallet-sdk/coins/solana/token"
+	"github.com/mmdi1/go-wallet-sdk/crypto/ed25519"
 )
 
 func TestNewAddress(t *testing.T) {

@@ -1,6 +1,6 @@
 package kujira
 
-import "github.com/okx/go-wallet-sdk/coins/cosmos"
+import "github.com/mmdi1/go-wallet-sdk/coins/cosmos"
 
 const (
 	HRP = "kujira"

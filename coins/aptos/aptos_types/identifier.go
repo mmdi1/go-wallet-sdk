@@ -1,8 +1,8 @@
 package aptos_types
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/aptos/bcs"
-	"github.com/okx/go-wallet-sdk/coins/aptos/serde"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/bcs"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/serde"
 )
 
 type Identifier string

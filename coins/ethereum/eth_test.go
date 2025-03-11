@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/okx/go-wallet-sdk/coins/ethereum/token"
+	"github.com/mmdi1/go-wallet-sdk/coins/ethereum/token"
 )
 
 func TestEcRecoverPubKey(t *testing.T) {

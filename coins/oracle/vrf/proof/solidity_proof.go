@@ -12,7 +12,7 @@ package proof
 import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/secp256k1"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/secp256k1"
 	"math/big"
 
 	"go.dedis.ch/kyber/v3"

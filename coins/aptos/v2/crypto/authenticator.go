@@ -2,8 +2,8 @@ package crypto
 
 import (
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/bcs"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/internal/util"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/v2/bcs"
+	"github.com/mmdi1/go-wallet-sdk/coins/aptos/v2/internal/util"
 )
 
 // Seeds for deriving addresses from addresses

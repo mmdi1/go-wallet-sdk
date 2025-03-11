@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/mmdi1/go-wallet-sdk/util"
 	"golang.org/x/crypto/sha3"
 	"math/big"
 )

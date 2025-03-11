@@ -2,7 +2,7 @@ package zkspace
 
 import (
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/coins/zksync/core"
+	"github.com/mmdi1/go-wallet-sdk/coins/zksync/core"
 )
 
 func GetPubKeyHash(ethPrivKeyHex string, chainId int) (string, error) {

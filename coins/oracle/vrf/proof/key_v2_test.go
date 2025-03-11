@@ -12,7 +12,7 @@ import (
 	"encoding/hex"
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/secp256k1"
+	"github.com/mmdi1/go-wallet-sdk/crypto/vrf/secp256k1"
 	"github.com/stretchr/testify/require"
 	"math/big"
 	"testing"

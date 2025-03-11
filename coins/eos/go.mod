@@ -1,4 +1,4 @@
-module github.com/okx/go-wallet-sdk/coins/eos
+module github.com/mmdi1/go-wallet-sdk/coins/eos
 
 go 1.19
 

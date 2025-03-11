@@ -3,7 +3,7 @@ package eos
 import (
 	"fmt"
 	"github.com/eoscanada/eos-go/ecc"
-	"github.com/okx/go-wallet-sdk/coins/eos/types"
+	"github.com/mmdi1/go-wallet-sdk/coins/eos/types"
 )
 
 // NewTransaction creates a new EOS Transaction object, ready to sign.

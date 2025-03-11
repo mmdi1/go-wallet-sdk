@@ -8,8 +8,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/okx/go-wallet-sdk/coins/ethereum/token"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/mmdi1/go-wallet-sdk/coins/ethereum/token"
+	"github.com/mmdi1/go-wallet-sdk/util"
 	"math/big"
 )
 
